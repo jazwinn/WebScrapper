@@ -3,6 +3,8 @@
 A lightweight, generic web scraper built with **Node.js** and **Cheerio** that converts the full HTML structure of any website into a clean, readable JSON file.  
 It’s perfect for exploring site structures, scraping content, or building data extraction tools.
 
+Download the WebScraper Google Extension [here](https://chromewebstore.google.com/detail/kiongcibmjjoieihobncoiecdmodhnmn?utm_source=item-share-cb)
+
 ## 🧩 Branch Overview
 
 | Branch | Description |
