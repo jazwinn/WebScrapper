@@ -2,6 +2,8 @@
 
 The **WebScraper Chrome Extension** is a lightweight browser-based scraper that converts any live webpage into a structured JSON file — directly from your browser.
 
+Download the WebScraper Google Extension [here](https://chromewebstore.google.com/detail/kiongcibmjjoieihobncoiecdmodhnmn?utm_source=item-share-cb)
+
 ## Installation
    ```bash
    git clone https://github.com/<your-username>/webscraper.git
